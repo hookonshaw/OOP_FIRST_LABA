@@ -1,1 +1,0 @@
-/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/growing_tree_test.dir/test/test_main.cpp.o CMakeFiles/growing_tree_test.dir/test/test_growingTree.cpp.o CMakeFiles/growing_tree_test.dir/src/growingTree.cpp.o -o growing_tree_test  /opt/homebrew/lib/libgtest_main.a /opt/homebrew/lib/libgtest.a
