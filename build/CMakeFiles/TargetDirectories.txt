@@ -1,0 +1,4 @@
+/Users/uskgg/Desktop/OOP/OOP_3sem/first_laba/build/CMakeFiles/growing_tree.dir
+/Users/uskgg/Desktop/OOP/OOP_3sem/first_laba/build/CMakeFiles/growing_tree_test.dir
+/Users/uskgg/Desktop/OOP/OOP_3sem/first_laba/build/CMakeFiles/edit_cache.dir
+/Users/uskgg/Desktop/OOP/OOP_3sem/first_laba/build/CMakeFiles/rebuild_cache.dir
